@@ -17,17 +17,17 @@ const diceRoll = function () {
 const diceImg = function (diceRoll) {
   switch (diceRoll) {
     case '1':
-      return 'dice-1.png';
+      return 'images/dice-1.png';
     case '2':
-      return 'dice-2.png';
+      return 'images/dice-2.png';
     case '3':
-      return 'dice-3.png';
+      return 'images/dice-3.png';
     case '4':
-      return 'dice-4.png';
+      return 'images/dice-4.png';
     case '5':
-      return 'dice-5.png';
+      return 'images/dice-5.png';
     case '6':
-      return 'dice-6.png';
+      return 'images/dice-6.png';
   }
 };
 
