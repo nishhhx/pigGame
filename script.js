@@ -49,7 +49,6 @@ const init = function () {
   document.querySelector('#winner--0').classList.add('hidden');
   document.querySelector('#winner--1').classList.add('hidden');
 };
-
 init();
 
 document.querySelector('.btn--roll').addEventListener('click', function () {
